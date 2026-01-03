@@ -1,6 +1,6 @@
 # awesome-ai-image-tools
 
-A curated list of AI image tools and resources.
+A curated list of AI image tools and resources. If you’re building something with AI images or just exploring what’s out there, this repo is a great starting point.
 
 ## GPT Image 1.5
 
@@ -10,3 +10,6 @@ A curated list of AI image tools and resources.
 ## Official site
 
 - [imgtoolshub.com](https://imgtoolshub.com/)
+
+## Contributions are welcome
+Feel free to submit a pull request or open an issue to add new tools.
