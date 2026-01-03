@@ -8,8 +8,7 @@ A curated list of AI image tools and resources. If you’re building something w
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
 
 ## Official site
-
-- [imgtoolshub.com](https://imgtoolshub.com/)
+[imgtoolshub.com](https://imgtoolshub.com/)
 
 ## Contributions are welcome
 Feel free to submit a pull request or open an issue to add new tools.
