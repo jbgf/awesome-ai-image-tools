@@ -2,6 +2,10 @@
 
 A curated list of AI image tools and resources. If you’re building something with AI images or just exploring what’s out there, this repo is a great starting point.
 
+## Image Editing
+
+- [ClearCrowds](https://clearcrowds.com/) - AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts.
+
 ## GPT Image 1.5
 
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
