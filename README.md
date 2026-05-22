@@ -7,6 +7,10 @@ A curated list of AI image tools and resources. If you’re building something w
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
 
+## Image design tools
+
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator that turns yard photos into outdoor redesign ideas and cost estimates.
+
 ## Official site
 [imgtoolshub.com](https://imgtoolshub.com/)
 
