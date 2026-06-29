@@ -7,6 +7,10 @@ A curated list of AI image tools and resources. If you’re building something w
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
 
+## AI Virtual Try-On
+
+- [HairWow](https://www.gohairwow.com) - AI hairstyle and beard try-on tool for previewing haircuts, colors, and style directions on your own photo before a salon or barber visit.
+
 ## Official site
 [imgtoolshub.com](https://imgtoolshub.com/)
 
