@@ -6,6 +6,7 @@ A curated list of AI image tools and resources. If you’re building something w
 
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
+- [RunAPI GPT Image 2 SDK](https://github.com/runapi-ai/gpt-image-2-sdk) - Multi-language SDK for GPT Image 2 generation.
 
 ## Official site
 [imgtoolshub.com](https://imgtoolshub.com/)
