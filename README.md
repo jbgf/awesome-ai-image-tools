@@ -6,6 +6,7 @@ A curated list of AI image tools and resources. If you’re building something w
 
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
+- [Raphael AI](https://raphael.app) - Free AI image generator for text-to-image and creative visuals in the browser.
 
 ## Official site
 [imgtoolshub.com](https://imgtoolshub.com/)
