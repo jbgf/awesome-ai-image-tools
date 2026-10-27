@@ -1,5 +1,6 @@
 # awesome-ai-image-tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 A curated list of AI image tools and resources. If you’re building something with AI images or just exploring what’s out there, this repo is a great starting point.
 
 ## GPT Image 1.5
