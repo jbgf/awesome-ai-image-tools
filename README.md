@@ -4,6 +4,7 @@ A curated list of AI image tools and resources. If you’re building something w
 
 ## GPT Image 1.5
 
+- **[AI Pose Gallery](https://aiposegallery.com/?utm_source=awesome-ai-image-tools-jbgf&utm_medium=directory&utm_campaign=backlinks)** — Free pose-reference gallery for artists with optional AI pose generation from a photo (one-time credit packs; not a video product).
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
 
