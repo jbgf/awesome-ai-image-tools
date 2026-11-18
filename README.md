@@ -7,6 +7,10 @@ A curated list of AI image tools and resources. If you’re building something w
 - [ChatGPT Images](https://chatgpt.com/images/) - Official ChatGPT images site.
 - [Higgsfield GPT-1.5](https://higgsfield.ai/gpt-1.5) - GPT-1.5 image tool.
 
+## Seedream 5.5
+
+- [Seedream 5.5](https://seedream55.io/) - Browser-based Seedream 5.5 image generator, text or up to 10 reference images to a 2K or 4K output.
+
 ## Official site
 [imgtoolshub.com](https://imgtoolshub.com/)
 
